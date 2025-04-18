@@ -1,5 +1,8 @@
 # AIMO
 
+### Performance Tracker Spreadsheet
+https://docs.google.com/spreadsheets/d/1vT6muWZ2tWZC2y_ZZEUhYz1Xizh9Q5b1mAkAQzgHajQ/edit?gid=0#gid=0
+
 ### WIP Docs
 https://docs.google.com/document/d/1jkwzp0_rHVOH5qazP8HVGSLj7du8X880w-NK_973SjU/edit?tab=t.0#heading=h.rax5pltu2opz
 
